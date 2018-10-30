@@ -1,0 +1,5 @@
+﻿  Renderer.cpp
+c:\users\211-22\desktop\softrenderer_template\matrix.h(2): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+c:\users\211-22\desktop\softrenderer_template\renderer.cpp(73): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SoftRenderer.vcxproj -> C:\Users\211-22\Desktop\SoftRenderer_Template\x64\Debug\SoftRenderer.exe
+  SoftRenderer.vcxproj -> C:\Users\211-22\Desktop\SoftRenderer_Template\x64\Debug\SoftRenderer.pdb (Full PDB)
